@@ -1,0 +1,117 @@
+{
+	"greeting" : "Mr. Doe",
+	"favorites" : [{
+			"id" : "159171",
+			"title" : "near airport parking",
+			"address" : "Kol.Vor
+			 den Toren I 251, 13629 Berlin, Germany",
+			"latitude" : 52.54912,
+			"longitude" : 13.29795
+		}, {
+			"id" : "153481",
+			"title"
+			 : "Squash house",
+			"address" : "Vulkanstra\u00dfe 3, 10367 Berlin, Germany",
+			"latitude" : 52.524413,
+			"longitude"
+			 : 13.486392
+		}
+	],
+	"driversLicenseStatus" : "valid",
+	"licenseCountry" : "DE",
+	"countryOfResidence" : "DE",
+	"name" : "John Doe",
+	"tenant" : "DE",
+	"ocva" : {
+		"ocvaText"
+		 : "If you want to unlock\/lock your already reserved DriveNow car with the app, please enter the number
+		 of your DriveNow customer card (first number on your Lap-ID or printed on the back of your DriveNow
+		 card).",
+		"placeholder" : "Number on your DriveNow card\/Lap-ID"
+	},
+	"privateAccountBalance" : [{
+			"title" : "Prepaid
+			 Packages",
+			"subtitle" : "Unlimited validity",
+			"type" : "prepaid",
+			"unit" : "min",
+			"value" : 370
+		}, {
+			"title" : "Savings
+			 Package",
+			"subtitle" : "Book now in \"Packages\"",
+			"type" : "savingspackage",
+			"unit" : "min",
+			"value" : 0,
+			"packageId"
+			 : ""
+		}, {
+			"title" : "Bonus Minutes",
+			"subtitle" : "Collect more in \"Recommend a friend\"",
+			"type" : "bonusminutes",
+			"unit" : "min",
+			"value" : 0
+		}
+	],
+	"auth" : "6ddfb9b58f8904807a45b13447f8e3ce",
+	"reservation" : {
+		"reservationId" : "5436303338313400000153FFB3A437
+		@bmw.de",
+		"isPreConfigured" : false,
+		"reservationTime" : "2016-04-10T10:24:34+00:00",
+		"systemTime" : "2016-04-10T10:25:42+00:00",
+		"reservedUntil" : "2016-04-10T10:39:34+00:00",
+		"canProlong" : true,
+		"status" : "reserved",
+		"paid"
+		 : false,
+		"car" : {
+			"id" : "WMWZN31040T603814",
+			"modelIdentifier" : "mini_cabrio",
+			"remoteOpenPossible" : true,
+			"modelName"
+			 : "MINI Convertible",
+			"name" : "Ophelia",
+			"make" : "BMW",
+			"group" : "MINI",
+			"color" : "pepper_white",
+			"rentalPriceWs"
+			 : {
+				"isOfferDrivePriceActive" : false,
+				"drivePrice" : {
+					"amount" : 34
+				},
+				"offerDrivePrice" : {
+					"amount" : 20
+				}
+			},
+			"series"
+			 : "Cabrio",
+			"fuelType" : "P",
+			"fuelLevel" : 0.22,
+			"hasRangeExtender" : false,
+			"isCharging" : false,
+			"transmission"
+			 : "A",
+			"licensePlate" : "M-DX5695",
+			"latitude" : 52.515701,
+			"longitude" : 13.403537,
+			"address" : ["Breite Str. 35-36", "10178 Berlin"],
+			"innerCleanliness" : "VERY_CLEAN",
+			"equipment" : [],
+			"carImageBaseUrl" : "https:\/\/prod.drive-now-content
+			.com\/fileadmin\/user_upload_global\/assets\/cars\/{model}\/{color}\/{density}\/car.png",
+			"carImageUrl"
+			 : "https:\/\/de.drive-now.com\/static\/drivenow\/img\/cars\/mini_cabrio.png",
+			"isPreheatable" : false
+		},
+		"prolongInfoText"
+		 : "Do you want to prolong your reservation for 10 ct\/min? The reservation is free of charge from Monday
+		 till Friday 12:00 am - 6:00 am. You can reserve a car for a maximum of 8 hours.",
+		"prolongCancelText"
+		 : "Do you really want to cancel your prolonged reservation? The car can then be reserved by other customers
+		 and might not be available for you anymore.\n\nThe extended reservation until now will be charged with
+		 10 ct\/min.",
+		"language" : "en"
+	}
+}

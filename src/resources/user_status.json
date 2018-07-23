@@ -1,0 +1,13 @@
+https://metrows.drive-now.com/php/drivenowws/v1/user/status?language=en&auth=b2af94b97a99ffdc689aecc39c3bb703
+
+200 OK
+519ms
+prod - bu....min.js(wiersz 9)
+{
+	"firstName" : "John",
+	"lastName" : "Doe",
+	"preferredCityId" : "6099",
+	"reservation" : {
+		"status" : "no_reservation_active"
+	}
+}

@@ -1,0 +1,71 @@
+https : //metrows.drive-now.com/php/drivenowws/v1/user/login?language=en
+200 OK
+1, 14s
+prod - bu....min.js(wiersz 9)
+{
+	"greeting" : "Mr. Doe",
+	"favorites" : [{
+			"id" : "188752",
+			"title" : "New home",
+			"address" : "Clean str. 102, 10115
+			 Berlin, Germany",
+			"latitude" : 58.544924,
+			"longitude" : 14.416752
+		}, {
+			"id" : "159171",
+			"title" : "near airport parking",
+			"address" : "Kol.Vor den Toren I 251, 13629 Berlin, Germany",
+			"latitude" : 52.54912,
+			"longitude" : 13.29795
+		}, {
+			"id" : "153481",
+			"title" : "Squash house",
+			"address" : "Vulkanstra\u00dfe 3, 10367 Berlin, Germany",
+			"latitude"
+			 : 52.524413,
+			"longitude" : 13.486392
+		}
+	],
+	"driversLicenseStatus" : "valid",
+	"licenseCountry"
+	 : "PL",
+	"countryOfResidence" : "DE",
+	"name" : "John Doe",
+	"tenant" : "DE",
+	"ocva" : {
+		"ocvaText" : "If you want to
+		 unlock\/lock your already reserved DriveNow car with the app, please enter the number of your DriveNow
+		 customer card (first number on your Lap-ID or printed on the back of your DriveNow card).",
+		"placeholder"
+		 : "Number on your DriveNow card\/Lap-ID"
+	},
+	"privateAccountBalance" : [{
+			"title" : "Prepaid Packages",
+			"subtitle"
+			 : "Unlimited validity",
+			"type" : "prepaid",
+			"unit" : "min",
+			"value" : 329
+		}, {
+			"title" : "Savings Package",
+			"subtitle"
+			 : "Book now in \"Packages\"",
+			"type" : "savingspackage",
+			"unit" : "min",
+			"value" : 0,
+			"packageId" : ""
+		}, {
+			"title" : "Bonus
+			 Minutes",
+			"subtitle" : "Collect more in \"Recommend a friend\"",
+			"type" : "bonusminutes",
+			"unit" : "min",
+			"value"
+			 : 0
+		}
+	],
+	"auth" : "b2af94b97a99ffdc689aecc39c3bb703",
+	"reservation" : {
+		"status" : "no_reservation_active"
+	}
+}

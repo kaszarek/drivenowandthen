@@ -1,0 +1,27 @@
+<cities>
+ 	<country value="Germany">
+ 		<city name="Berlin" picture="berlin.png" code="6099" lat="52.521386" lon="13.411460" alt="3000" selected=""/>
+ 		<city name="Cologne" picture="cologne.png" code="1774" lat="50.938625" lon="6.959243" alt="3800" selected=""/>
+ 		<city name="Dusseldorf" picture="dusseldorf.png" code="1293" lat="51.221343" lon="6.792961" alt="4000" selected=""/>
+ 		<city name="Hamburg" picture="hamburg.png" code="40065" lat="53.550130" lon="9.991076" alt="2500" selected=""/>
+ 		<city name="Munich" picture="munich.png" code="4604" lat="48.137163" lon="11.5710305" alt="3500" selected=""/>
+ 	</country>
+ 	<country value="Austria">
+ 		<city name="Vienna" picture="vienna.png" code="40468" lat="48.209065" lon="16.372300" alt="3000" selected=""/>
+ 	</country>
+ 	<country value="United Kingdom">
+ 		<city name="London" picture="london.png" code="40758" lat="51.525663" lon="-0.087487" alt="6000" selected=""/>
+ 	</country>
+ 	<country value="Denmark">
+ 		<city name="Copenhagen" picture="copenhagen.png" code="41369" lat="55.674053" lon="12.572737" alt="4500" selected=""/>
+ 	</country>
+ 	<country value="Sweden">
+ 		<city name="Stockholm" picture="stockholm.png" code="42128" lat="59.331427" lon="18.059096" alt="4000" selected=""/>
+ 	</country>
+ 	<country value="Belgium">
+ 		<city name="Brussels" picture="brussels.png" code="42619" lat="50.848896" lon="4.353709" alt="4000" selected=""/>
+ 	</country>
+ 	<country value="Italy">
+ 		<city name="Milan" picture="milan.png" code="42756" lat="45.464559" lon="9.185682" alt="4000" selected=""/>
+ 	</country>
+</cities>
